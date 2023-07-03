@@ -1,3 +1,13 @@
+# Unreal Finance Stablecoin
+This project consists of a stablecoin which can be purchased using Eth and it equates to Number of XUF Tokens = (Price of Eth)*(Number of Eth)/2
+It can also be redeemed in place of ETH and will be burned within the same function
+
+Token address: 0xFab02A04471D12b5Ea463347D2CdB2C36fEd1291
+Contract is deployed on Sepolia ETH Testnet
+
+Frontend of the project is in frontend subdirectory of the project, to run that kindly cs into frontend subdirectory and run: npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
